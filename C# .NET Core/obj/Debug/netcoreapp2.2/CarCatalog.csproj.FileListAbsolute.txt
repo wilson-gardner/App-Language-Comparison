@@ -1,0 +1,17 @@
+/mnt/d/Coding/C#/Pluralsight/C# Fundamentals/CarCatalog/src/CarCatalog/obj/Debug/netcoreapp2.2/CarCatalog.csprojAssemblyReference.cache
+/mnt/d/Coding/C#/Pluralsight/C# Fundamentals/CarCatalog/src/CarCatalog/obj/Debug/netcoreapp2.2/CarCatalog.csproj.CoreCompileInputs.cache
+/mnt/d/Coding/C#/Pluralsight/C# Fundamentals/CarCatalog/src/CarCatalog/obj/Debug/netcoreapp2.2/CarCatalog.AssemblyInfoInputs.cache
+/mnt/d/Coding/C#/Pluralsight/C# Fundamentals/CarCatalog/src/CarCatalog/obj/Debug/netcoreapp2.2/CarCatalog.AssemblyInfo.cs
+/mnt/d/Coding/C#/Pluralsight/C# Fundamentals/CarCatalog/src/CarCatalog/obj/Debug/netcoreapp2.2/CarCatalog.dll
+/mnt/d/Coding/C#/Pluralsight/C# Fundamentals/CarCatalog/src/CarCatalog/obj/Debug/netcoreapp2.2/CarCatalog.pdb
+D:\Coding\C#\Pluralsight\C# Fundamentals\CarCatalog\src\CarCatalog\obj\Debug\netcoreapp2.2\CarCatalog.csprojAssemblyReference.cache
+D:\Coding\C#\Pluralsight\C# Fundamentals\CarCatalog\src\CarCatalog\obj\Debug\netcoreapp2.2\CarCatalog.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Pluralsight\C# Fundamentals\CarCatalog\src\CarCatalog\obj\Debug\netcoreapp2.2\CarCatalog.AssemblyInfoInputs.cache
+D:\Coding\C#\Pluralsight\C# Fundamentals\CarCatalog\src\CarCatalog\obj\Debug\netcoreapp2.2\CarCatalog.AssemblyInfo.cs
+D:\Coding\C#\Pluralsight\C# Fundamentals\CarCatalog\src\CarCatalog\obj\Debug\netcoreapp2.2\CarCatalog.dll
+D:\Coding\C#\Pluralsight\C# Fundamentals\CarCatalog\src\CarCatalog\obj\Debug\netcoreapp2.2\CarCatalog.pdb
+D:\Coding\C#\Pluralsight\C# Fundamentals\CarCatalog\src\CarCatalog\bin\Debug\netcoreapp2.2\CarCatalog.deps.json
+D:\Coding\C#\Pluralsight\C# Fundamentals\CarCatalog\src\CarCatalog\bin\Debug\netcoreapp2.2\CarCatalog.runtimeconfig.json
+D:\Coding\C#\Pluralsight\C# Fundamentals\CarCatalog\src\CarCatalog\bin\Debug\netcoreapp2.2\CarCatalog.runtimeconfig.dev.json
+D:\Coding\C#\Pluralsight\C# Fundamentals\CarCatalog\src\CarCatalog\bin\Debug\netcoreapp2.2\CarCatalog.dll
+D:\Coding\C#\Pluralsight\C# Fundamentals\CarCatalog\src\CarCatalog\bin\Debug\netcoreapp2.2\CarCatalog.pdb
